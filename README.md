@@ -1,4 +1,4 @@
-# Medical Insurance Cost Prediction Using Machine Learning
+# Medical Insurance Cost Prediction Using Machine Learning (Research Paper & Proper Code)
 
 This project focuses on accurately predicting medical insurance expenses to support both insurance providers and policyholders in financial planning and risk assessment. By analyzing demographic and health-related attributes such as **age, BMI, smoking status, number of dependents, gender, and region**, the system applies multiple machine learning techniques to deliver cost predictions and risk categorizations.
 
